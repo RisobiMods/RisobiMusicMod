@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:creeper_drop_music_discs"
+    }
+  ],
+  "addition": "risobimusic:brysontiller",
+  "type": "risobimusic:brysontiller_creeper_modifier"
+}

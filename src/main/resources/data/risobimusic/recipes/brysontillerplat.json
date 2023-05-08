@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "X": {
+      "item": "risobimusic:brysontiller"
+    }
+  },
+  "result": {
+    "item": "risobimusic:brysontillerplat"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "dontmono": {
+    "sounds": [
+      {
+        "name": "risobimusic:dontmono",
+        "stream": true
+      }
+    ]
+  },
+  "dontstereo": {
+    "sounds": [
+      {
+        "name": "risobimusic:dontstereo",
+        "stream": true
+      }
+    ]
+  }
+}
